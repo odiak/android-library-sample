@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId 'net.odiak.androidlibrarysample'
+        applicationId 'net.odiak.androidlibrarysample.app'
 
         minSdkVersion 17
         targetSdkVersion 23

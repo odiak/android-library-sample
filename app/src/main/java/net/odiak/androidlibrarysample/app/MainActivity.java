@@ -1,4 +1,4 @@
-package net.odiak.androidlibrarysample;
+package net.odiak.androidlibrarysample.app;
 
 import android.app.Activity;
 import android.os.Bundle;
